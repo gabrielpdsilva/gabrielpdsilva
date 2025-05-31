@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel
 
-## 💻 Crafting Solutions
+## 💻 Crafting Smart Solutions
 
 I’m a **Software Developer** passionate about turning ideas into reality. I take pride in writing clean, reusable code and building complete solutions — from intuitive UIs and efficient APIs to responsive mobile apps.
 
